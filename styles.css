@@ -70,7 +70,13 @@ h1 {
 }
 
 .links a {
-  margin: 1em;
+  padding: 1em 1em 0.8em 1em;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+.links a:hover {
+  background: #a7a3a347;
 }
 
 #myVideo {
