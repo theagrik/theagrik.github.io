@@ -50,7 +50,10 @@ div.sticky {
 }
 
 p {
-    font-family: 'Roboto Serif', serif;
+    font-family: 'Cyber', sans-serif;
+    font-size: 20px;
+    padding-left: 5px;
+    margin-top: -15px;
 }
 
 h1 {
